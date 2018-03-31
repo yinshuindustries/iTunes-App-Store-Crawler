@@ -1,3 +1,13 @@
+Updated On 2018/4/1
+========================
+1. This is a crawler forked from https://github.com/mladerman/iTunes-App-Store-Crawler
+
+2. Added several functions to crawl other features, e.g. description, relese date, etc.
+
+3. Revamp codes to locate features (olds are not compatible to nowadays Apple Store HTMLs)
+
+4. Successfully Ran in Python 3.5.2
+
 iTunes-App-Store-Crawler
 ========================
 
