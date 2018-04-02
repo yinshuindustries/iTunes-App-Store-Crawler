@@ -8,7 +8,7 @@ Updated On 2018/4/2
 
 4. Successfully Ran in Python 3.5.2, Win 7 64-bits
 
-5. Only crawl every first page in each letter in each catagory, so if run successfully there still would have only about 150k apps.
+5. Only crawl every first page in each letter in each category, so if run successfully there still would have only about 150k apps.
 
 iTunes-App-Store-Crawler
 ========================
