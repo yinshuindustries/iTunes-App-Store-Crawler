@@ -1,4 +1,4 @@
-Updated On 2018/4/1
+Updated On 2018/4/2
 ========================
 1. This is a crawler forked from https://github.com/mladerman/iTunes-App-Store-Crawler
 
@@ -6,7 +6,9 @@ Updated On 2018/4/1
 
 3. Revamp codes to locate features (olds are not compatible to nowadays Apple Store HTMLs)
 
-4. Successfully Ran in Python 3.5.2
+4. Successfully Ran in Python 3.5.2, Win 7 64-bits
+
+5. Only crawl every first page in each letter in each catagory, so if run successfully there still would have only about 150k apps.
 
 iTunes-App-Store-Crawler
 ========================
