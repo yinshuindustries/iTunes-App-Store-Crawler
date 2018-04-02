@@ -6,7 +6,7 @@ Updated On 2018/4/2
 
 3. Revamp codes to locate features (olds are not compatible to nowadays Apple Store HTMLs)
 
-4. Successfully Ran in Python 3.5.2, Win 7 64-bits
+4. Successfully Ran in Python 3.5.2, Win 7 64-bit
 
 5. Only crawl every first page in each letter in each category, so if run successfully there still would have only about 150k apps.
 
